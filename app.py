@@ -8,7 +8,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="login_app",
     user="postgres",
-    password="pvsw",  # <-- your password
+    password="",  # <-- your password
     port="5432"
 )
 
